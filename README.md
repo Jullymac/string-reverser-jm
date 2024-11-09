@@ -28,13 +28,6 @@ console.log(reversed); // Output: '!dlrow ,olleH'
 - Reverses any string input
 - Useful for educational purposes and quick string operations
 
-## Example
-
-```javascript
-console.log(reverseString("JavaScript")); // Output: 'tpircSavaJ'
-console.log(reverseString("Frontend Developer")); // Output: 'repoleveD dnetnorF'
-```
-
 ## License
 
 This package is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
